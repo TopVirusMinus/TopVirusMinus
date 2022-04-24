@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mustafa-walid-273b951a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-walid" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13020989/mustafa-walid walid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mustafa walid" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/UC8giOecbRtB_szJMiVu_mAQ marzouk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mustafa marzouk" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UC8giOecbRtB_szJMiVu_mAQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mustafa marzouk" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/virusminus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="virusminus" height="30" width="40" /></a>
 </p>
 
