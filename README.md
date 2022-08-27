@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [School Management System](https://github.com/TopVirusMinus/System-Analysis-Project)
 
-- 🌱 I’m currently learning **Graph theory**
+- 🌱 I’m currently learning **React js**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mustafa-walid-273b951a9](https://www.linkedin.com/in/mustafa-walid-273b951a9)
 
