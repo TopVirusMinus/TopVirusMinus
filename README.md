@@ -14,7 +14,8 @@
 
 - 📫 How to reach me **mwmma5000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19Ddmd8ov2xOVL4Hhidth-XsVUMLwq6Er/view?usp=drivesdk](https://drive.google.com/file/d/19Ddmd8ov2xOVL4Hhidth-XsVUMLwq6Er/view?usp=drivesdk)
+- 📄 Know about my experiences: [Mustafa Walid Resume.pdf](https://github.com/TopVirusMinus/TopVirusMinus/files/9485063/Mustafa.Walid.Resume.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
