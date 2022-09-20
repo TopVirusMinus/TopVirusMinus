@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Job Finding Website using React](https://github.com/TopVirusMinus/Job-Finding-Website)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Dotnet Web API**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mustafa-walid-273b951a9](https://www.linkedin.com/in/mustafa-walid-273b951a9)
 
