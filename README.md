@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topvirusminus" alt="topvirusminus" /></a> </p>
 -->
 
-- 🔭 I’m currently working on [Job Finding Website using React](https://github.com/TopVirusMinus/Job-Finding-Website)
+- 🔭 I’m currently working on note taking website [Pyro Notes](https://github.com/TopVirusMinus/pyro-notes)
 
 - 🌱 I’m currently learning **Dotnet Web API**
 
