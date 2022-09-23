@@ -43,8 +43,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=Tailwind)&nbsp;\
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=1572B6)&nbsp;
-![My SQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)\
-![SQL Server](https://img.shields.io/badge/-sql-server%20Studio%20Code-05122A?style=flat&logo=sql-server&logoColor=007ACC)&nbsp;
+![My SQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)
+![SQL Server](https://img.shields.io/badge/-sql-server-05122A?style=flat&logo=sql-server&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
