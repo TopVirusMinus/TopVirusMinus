@@ -44,7 +44,7 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=Tailwind)&nbsp;\
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=1572B6)&nbsp;
 ![My SQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
+![SQL Server](https://img.shields.io/badge/-sql%20server-05122A?style=flat&logo=sql%20server)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
 
 <!--
