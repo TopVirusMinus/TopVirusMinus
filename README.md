@@ -1,6 +1,7 @@
-<h1 align="center">Hi <div class="tenor-gif-embed" data-postid="17522450" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-hand-people-joypixels-hi-hello-gif-17522450">Waving Hand People Sticker</a>from <a href="https://tenor.com/search/waving+hand-stickers">Waving Hand Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>, I'm Mustafa Marzouk</h1>
+<h1 align="center">Hi, I'm Mustafa Marzouk</h1>
 <h3 align="center">Problem Solving Enthusiast</h3>
 
+<div class="tenor-gif-embed" data-postid="17522450" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-hand-people-joypixels-hi-hello-gif-17522450">Waving Hand People Sticker</a>from <a href="https://tenor.com/search/waving+hand-stickers">Waving Hand Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topvirusminus" alt="topvirusminus" /></a> </p>
