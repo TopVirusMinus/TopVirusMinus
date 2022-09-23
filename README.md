@@ -29,7 +29,7 @@
 <a href="https://stackoverflow.com/users/13020989/mustafa-walid walid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mustafa walid" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UC8giOecbRtB_szJMiVu_mAQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mustafa marzouk" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/virusminus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="virusminus" height="30" width="40" /></a>
-</p>\
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
