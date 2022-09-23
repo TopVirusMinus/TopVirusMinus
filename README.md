@@ -44,7 +44,7 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=Tailwind)&nbsp;\
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=1572B6)&nbsp;
 ![My SQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)
-![SQL Server](https://img.shields.io/badge/-sql-server-05122A?style=flat&logoColor=007ACC)&nbsp;
+![SQL Server](https://img.shields.io/badge/-sql-server-05122A?style=flat)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
 
 <!--
