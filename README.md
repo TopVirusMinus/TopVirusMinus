@@ -32,7 +32,6 @@
 <a href="https://www.leetcode.com/virusminus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="virusminus" height="30" width="40" /></a>
 </p>
 
-<br/>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
