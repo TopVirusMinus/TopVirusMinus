@@ -31,7 +31,6 @@
 <a href="https://youtube.com/channel/UC8giOecbRtB_szJMiVu_mAQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mustafa marzouk" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/virusminus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="virusminus" height="30" width="40" /></a>
 </p>
-<br>
 
 ### 🛠 &nbsp;Tech Stack
 <!--
