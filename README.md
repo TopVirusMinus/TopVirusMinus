@@ -76,4 +76,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=topvirusminus&" alt="topvirusminus" /></p>
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TopVirusMinus&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=TopVirusMinus&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopVirusMinus&theme=react&layout=compact" />
+</p>
