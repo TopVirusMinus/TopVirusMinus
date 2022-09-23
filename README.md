@@ -11,7 +11,6 @@
        alt="snake" /></a>
 </div>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on note taking website [Pyro Notes](https://github.com/TopVirusMinus/pyro-notes)
 
