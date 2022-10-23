@@ -12,7 +12,7 @@
 </div>
 
 
-- 🔭 I’m currently working on note taking website [Pyro Notes](https://github.com/TopVirusMinus/pyro-notes)
+- 🔭 I’m currently working on note taking website [Maze Path Finding Visualizer](https://github.com/TopVirusMinus/Maze-Solver-React)
 
 - 🌱 I’m currently learning **Dotnet Web API**
 
