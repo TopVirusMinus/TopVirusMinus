@@ -72,8 +72,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=topvirusminus&show_icons=true&locale=en" alt="topvirusminus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=topvirusminus&" alt="topvirusminus" /></p>
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopVirusMinus&theme=react&layout=compact" />
+
 -->
 <p align= "left">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=TopVirusMinus&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopVirusMinus&theme=react&layout=compact" />
 </p>
