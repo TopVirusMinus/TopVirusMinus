@@ -75,6 +75,7 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopVirusMinus&theme=react&layout=compact" />
 
 -->
+<img height= "150" src="https://github-readme-stats.vercel.app/api?username=TopVirusMinus&theme=react&show_icons=true&include_all_commits=true" />
 <p align= "left">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=TopVirusMinus&theme=react&show_icons=true&include_all_commits=true" />
+  
 </p>
