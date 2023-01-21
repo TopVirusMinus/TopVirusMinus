@@ -20,7 +20,8 @@
 
 - 📫 How to reach me **mwmma5000@gmail.com**
 
-- 📜 [My Resume.pdf](https://github.com/TopVirusMinus/TopVirusMinus/files/9617341/Mustafa.Resume.pdf)
+- 📜 [Mustafa Walid Resume.pdf](https://github.com/TopVirusMinus/TopVirusMinus/files/10472061/Mustafa.Walid.Resume.pdf)
+
 
 
 
