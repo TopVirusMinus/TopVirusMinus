@@ -12,9 +12,9 @@
 </div>
 
 
-- 🔭 I’m currently working on note taking website [Maze Path Finding Visualizer](https://github.com/TopVirusMinus/Maze-Solver-React)
+- 🔭 I’m currently working on note taking website [Ecommerce Sanity Firebase](https://github.com/TopVirusMinus/ecommerce-sanity-nextjs)
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **NLP**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mustafa-walid-273b951a9](https://www.linkedin.com/in/mustafa-walid-273b951a9)
 
