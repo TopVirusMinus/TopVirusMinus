@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **mwmma5000@gmail.com**
 
-- 📜 [My Resume]([https://drive.google.com/drive/folders/1Jbfav2KpqyQ3dPim7MMC316MYN2lib7i?usp=sharing](https://drive.google.com/file/d/1BUW8DSMN6Y6LjppqQHURY36GFl1bBmzC/view?usp=sharing])
+- 📜 [My Resume](https://drive.google.com/file/d/1BUW8DSMN6Y6LjppqQHURY36GFl1bBmzC/view?usp=sharing])
 
 
 
