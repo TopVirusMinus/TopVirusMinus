@@ -12,7 +12,7 @@
 </div>
 
 
-- 🔭 I’m currently working on note taking website [Ecommerce Sanity Firebase](https://github.com/TopVirusMinus/ecommerce-sanity-nextjs)
+- 🔭 I’m currently working on an Ecommerce website [Ecommerce Sanity Firebase](https://github.com/TopVirusMinus/ecommerce-sanity-nextjs)
 
 - 🌱 I’m currently learning **NLP**
 
