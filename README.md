@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-  ![linkedin-qr-code](https://github.com/TopVirusMinus/TopVirusMinus/blob/main/assets/40539669/e8d269b7-e59a-49ea-b193-da0d3aa8fbd6.png)
+  ![linkedin](https://github.com/TopVirusMinus/TopVirusMinus/assets/40539669/49d6b5d8-1cdc-448f-a1ad-e46f93707f28)
   <!--
   <a href="https://github.com/TopVirusMinus">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
