@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topvirusminus" alt="topvirusminus" /></a> </p>
 -->
 
-<div align="left">
+<div align="center">
   <img width=500 height=500 src='https://github.com/TopVirusMinus/TopVirusMinus/assets/40539669/49d6b5d8-1cdc-448f-a1ad-e46f93707f28?raw=true'></img>
   <!--
   <a href="https://github.com/TopVirusMinus">
