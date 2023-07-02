@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-  <img width=500 height=500 src='https://github.com/TopVirusMinus/TopVirusMinus/assets/40539669/49d6b5d8-1cdc-448f-a1ad-e46f93707f28?raw=true'></img>
+  <img width=500 height=auto src='https://github.com/TopVirusMinus/TopVirusMinus/assets/40539669/49d6b5d8-1cdc-448f-a1ad-e46f93707f28?raw=true'></img>
   <!--
   <a href="https://github.com/TopVirusMinus">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
