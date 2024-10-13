@@ -3,8 +3,7 @@
 <!--
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topvirusminus" alt="topvirusminus" /></a> </p>
--->
-
+<!--
 <div align="center">
   <img width=500 height=auto src='https://github.com/TopVirusMinus/TopVirusMinus/assets/40539669/49d6b5d8-1cdc-448f-a1ad-e46f93707f28?raw=true'></img>
   <!--
@@ -12,15 +11,15 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>-->
 </div>
+-->
 
+<!-- - 🔭 I’m currently working on an Ecommerce website [Ecommerce Sanity Firebase](https://github.com/TopVirusMinus/ecommerce-sanity-nextjs) -->
 
-- 🔭 I’m currently working on an Ecommerce website [Ecommerce Sanity Firebase](https://github.com/TopVirusMinus/ecommerce-sanity-nextjs)
+- 🌱 I’m currently learning **Backend Web Developmen**
 
-- 🌱 I’m currently learning **NLP**
+- 📝 I regularly write articles on [https://www.linkedin.com/in/mustafa-marzouk-273b951a9/](https://www.linkedin.com/in/mustafa-marzouk-273b951a9/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mustafa-walid-273b951a9](https://www.linkedin.com/in/mustafa-walid-273b951a9)
-
-- 📫 How to reach me **mwmma5000@gmail.com**
+- 📫 How to reach me **mustafa.w.marzouk@gmail.com**
 
 - 📜 [My Resume](https://drive.google.com/file/d/1BUW8DSMN6Y6LjppqQHURY36GFl1bBmzC/view?usp=sharing])
 
