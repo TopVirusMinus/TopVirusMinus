@@ -14,7 +14,7 @@
 
 <!-- - 🔭 I’m currently working on an Ecommerce website [Ecommerce Sanity Firebase](https://github.com/TopVirusMinus/ecommerce-sanity-nextjs) -->
 
-- 🌱 I’m currently learning **Backend Web Developmen**
+- 🌱 I’m currently learning **Backend Web Development**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mustafa-marzouk-273b951a9/](https://www.linkedin.com/in/mustafa-marzouk-273b951a9/)
 
