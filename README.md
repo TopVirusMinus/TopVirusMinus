@@ -19,8 +19,7 @@
 ---
 
 ### ✍️ A Bit About Me
-
-- 🧠 Full Stack Software Engineer with a passion for clean code and learning new things  
+- 💼 Full Stack Software Engineer @ [Microdoc](https://microdoc.io)
 - 🧮 I make **math animations** using [Manim](https://drive.google.com/drive/u/1/folders/1IzX6IHn7Mz0Xbd-aSFxgtrCVIFOEuKSc)  
 - 📝 I write tech articles on [Medium](https://medium.com/@mwmma5000)  
 - 📫 Reach me at: **mustafa.w.marzouk@gmail.com**  
