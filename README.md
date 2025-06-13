@@ -19,11 +19,11 @@
 ---
 
 ### ✍️ A Bit About Me
+- 💼 Software Engineer at [Microdoc](https://microdoc.io)
 - 🧪  I’ve published a few AI research papers – check them out on [Google Scholar](https://scholar.google.com/citations?user=f9B4b2IAAAAJ&hl=en)
-- 💼 Software Engineer @ [Microdoc](https://microdoc.io)
 - 🧮 I create **math animations** using [Manim](https://drive.google.com/drive/u/1/folders/1IzX6IHn7Mz0Xbd-aSFxgtrCVIFOEuKSc)  
 - 📝 I occasionally write tech articles on [Medium](https://medium.com/@mwmma5000)  
-- 📫 Feel free to reach out: **mustafa.w.marzouk@gmail.com**  
+- 📫 Reach me anytime at **mustafa.w.marzouk@gmail.com**  
 - 📄 [Here's my Resume](https://drive.google.com/file/d/1pCF3f1bTtSZg7agjPmoABl86eVRIMQ8G/view?usp=sharing) if you'd like to know more
 
 ---
