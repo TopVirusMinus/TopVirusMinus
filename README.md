@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mustafa Marzouk 👋</h1>
-<h3 align="center">Software Engineer 💻 | Math Animator 🎥</h3>
+<h3 align="center">Software Engineer 💻 | Math Animator 🎥 | AI Reasearcher</h3>
 
 <p align="center">
   <a href="https://github.com/TopVirusMinus">
@@ -19,6 +19,7 @@
 ---
 
 ### ✍️ A Bit About Me
+- 🧪 Publications [Google Scholar](https://scholar.google.com/citations?user=f9B4b2IAAAAJ&hl=en)
 - 💼 Full Stack Software Engineer @ [Microdoc](https://microdoc.io)
 - 🧮 I make **math animations** using [Manim](https://drive.google.com/drive/u/1/folders/1IzX6IHn7Mz0Xbd-aSFxgtrCVIFOEuKSc)  
 - 📝 I write tech articles on [Medium](https://medium.com/@mwmma5000)  
