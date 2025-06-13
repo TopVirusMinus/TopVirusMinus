@@ -20,7 +20,7 @@
 
 ### ℹ️ About Me
 - 💼 Software Engineer at [Microdoc](https://microdoc.io)
-- 🎓 BSc in Computer Science from Greenwich (UK) / MSA University (Egypt)
+- 🎓 BSc in Computer Science from Greenwich (UK) & MSA University (Egypt)
 - 🧪  I’ve published a few AI research papers – check them out on [Google Scholar](https://scholar.google.com/citations?user=f9B4b2IAAAAJ&hl=en)
 - 🧮 I create **math animations** using [Manim](https://drive.google.com/drive/u/1/folders/1IzX6IHn7Mz0Xbd-aSFxgtrCVIFOEuKSc)  
 - 📝 I occasionally write tech articles on [Medium](https://medium.com/@mwmma5000)  
