@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mustafa Marzouk 👋</h1>
-<h3 align="center">Software Engineer 💻 | Math Animator 🎥 | AI Reasearcher</h3>
+<h3 align="center">Software Engineer 💻 | Math Animator 🎥 | AI Reasearcher 🤖</h3>
 
 <p align="center">
   <a href="https://github.com/TopVirusMinus">
